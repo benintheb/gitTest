@@ -10,5 +10,5 @@ For the purpose of getting used to git and git commands.
 
 #### Learning about Markdown
 
-[Mastering Markdown](https://github.com/benintheb/gitTest/blob/master/mastering%20markdown.md)
+[Mastering Markdown](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 
